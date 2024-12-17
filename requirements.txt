@@ -1,0 +1,12 @@
+tqdm
+numpy
+pandas
+matplotlib
+torch
+torch_optimizer
+opencv-python
+timm
+transformers
+scikit-learn
+torchvision
+datetime 
